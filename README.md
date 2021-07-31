@@ -1,15 +1,19 @@
 <h1>Olá! Eu sou a Jucilene Nunes</h1>
 
-- 👩🏼‍⚕️💉 Atualmente me abdiquei da carreira na Enfermagem para me dedicacar ao estudos em desenvolvimento web 🖥️🖱️
-- 📚 É isso! Atualmente sou estudante exclusiva de Front-end e Engenharia de Software 💪😍 
-- 💻 Focada nas tecnologias HTML5, CSS3, Javascript, Node e React 🚀
+<h3>
+     ✅👩🏼‍⚕️💉 Atualmente me abdiquei da carreira na Enfermagem para me dedicacar ao estudos em desenvolvimento web 🖥️🖱️ <br>
+     ✅📚 É isso! Atualmente sou estudante exclusiva de Front-end e Engenharia de Software 💪😍 <br>
+     ✅💻 Focada nas tecnologias HTML5, CSS3, Javascript, Node e React 🚀 <br>
+     ✅🙋‍♀️ Disponível ao mercado de trabalho ✔️ <br>
+</h3> 
+  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ju-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Ju-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ##
