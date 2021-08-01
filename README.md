@@ -13,21 +13,29 @@
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Ju-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ju-React" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
   ##
 
 <div>
-     <h3>Intituições de ensino:</h3>
+     <h3>Intituições de Ensino:</h3>
       ✅ Alura<br>
       ✅ Udemy<br>
       ✅ Rocketseat<br>
       ✅ Digital Innovation<br>
       ✅ Faculdade Metropolitana<br>
      😍 Processo Acelaração LuizaLabs 💙<br>
-    
 </div>     
+
+  ##
+  
+  <div>
+     <h3>Inspirações Tech Girls:</h3>
+     💖 Carol Shaw<br>
+     💖 Rafaella Ballerini<br>
+     💖 Cristina Junqueira<br>
+</div>  
 
   ##
      
@@ -43,10 +51,15 @@
   <a href="https://www.youtube.com/channel/UChuSWcXvns003Ms15Q9mNdA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jucilenenunes10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:jucilenenunes10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/jucilene-nunes-485650212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jucilene-nunes-485650212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>    
+     
+   ##
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <div>    
+    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/f66b6756cc5c1b24767132d2127faeba.gif" img align="right" width="450" height="450" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+ </div>    
  
-</div>
+
 
 
