@@ -55,11 +55,13 @@
  </div>    
      
    ##
- 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  <div>    
     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/f66b6756cc5c1b24767132d2127faeba.gif" img align="right" width="450" height="450" border="0"  alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
  </div>    
  
+     
+     
 
 
 
