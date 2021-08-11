@@ -22,7 +22,7 @@
 
 
 <div>
-     <h3>Intituições de Ensino:</h3>
+     <h3>Instituições de Ensino:</h3>
       ✅ Alura<br>
       ✅ Udemy<br>
       ✅ Rocketseat<br>
