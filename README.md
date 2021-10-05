@@ -30,7 +30,7 @@
       ✅ Faculdade Metropolitana<br>
 </div>     
  
- <div>
+<div>
   <a href="https://github.com/jucilenenunes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jucilenenunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucilenenunes&layout=compact&langs_count=7&theme=dracula"/>
@@ -42,8 +42,8 @@
   <a href="https://www.youtube.com/channel/UChuSWcXvns003Ms15Q9mNdA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jucilenenunes10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jucilene-nunes-485650212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/sendphone=5511967705101&text=Ol%C3%A1.%20Sou%20a%20Jucilene.%20Desenvolvedora%20Web%2C%20apaixonada%20por%20tecnologia%20e%20aprender%
-20coisas%20novas.%20Vamos%20trocar%20conhecimento%20e%20ideias%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366style=forthebadge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/sendphone=5511967705101&text=Ol%C3%A1.%20Sou%20a%20Jucilene.%20Desenvolvedora%20Web%2C%20apaixonada%
+20por%20tecnologia%20e%20aprender%20coisas%20novas.%20Vamos%20trocar%20conhecimento%20e%20ideias%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>    
      
   ##
