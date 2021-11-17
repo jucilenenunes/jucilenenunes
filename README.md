@@ -5,6 +5,7 @@
      ✅📚 É isso! Atualmente sou estudante exclusiva de Front-end, Back-end e Engenharia de Software 💪<br>
      ✅💻 Futuramente uma DEVELOPER FULL STACK 🙌 <br>
      ✅💻 Focada nas tecnologias HTML5, CSS3, Javascript, Node, MySQL, React e Figma. 🚀 <br> 
+     ✅🔄 Metodologias Ágeis Scrum e Kanban ⭐ <br>
 </h3> 
   
 
