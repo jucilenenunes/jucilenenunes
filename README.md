@@ -4,7 +4,7 @@
      ✅👩🏼‍⚕️💉 Recentemente me abdiquei da carreira na Enfermagem para me dedicacar ao estudos em desenvolvimento web 🖥️🖱️ <br>
      ✅📚 É isso! Atualmente sou estudante exclusiva de Front-end, Back-end e Engenharia de Software 💪<br>
      ✅💻 Futuramente uma DEVELOPER FULL STACK 🙌 <br>
-     ✅💻 Focada nas tecnologias HTML5, CSS3, Javascript, Node, MySQL e React 🚀 <br> 
+     ✅💻 Focada nas tecnologias HTML5, CSS3, Javascript, Node, MySQL, React e Figma. 🚀 <br> 
 </h3> 
   
 
@@ -15,6 +15,7 @@
   <img align="center" alt="Ju-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ju-mysql" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ju-React" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ju-Figma" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   
  
 
