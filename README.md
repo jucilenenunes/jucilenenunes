@@ -1,24 +1,28 @@
 <h1>Olá! Eu sou a Jucilene Nunes</h1>
 
 <h3>
-     ✅👩🏼‍⚕️💉 Recentemente me abdiquei da carreira na Enfermagem para me dedicacar ao estudos em desenvolvimento web 🖥️🖱️ <br>
-     ✅📚 É isso! Atualmente sou estudante exclusiva de Front-end, Back-end e Engenharia de Software 💪<br>
-     ✅💻 Futuramente uma DEVELOPER FULL STACK 🙌 <br>
-     ✅💻 Focada nas tecnologias HTML5, CSS3, Javascript, Node, MySQL, React e Figma. 🚀 <br> 
+     ✅👩🏼‍⚕️💉 Me abdiquei de uma carreira sólida na Enfermagem no serviço público para me dedicacar ao estudos em desenvolvimento web 🖥️🖱️ <br>
+     ✅📚 Mantenho os estudos focado em Front-end, Back-end e Engenharia de Software, mas sou apaixonada por qualquer coisa relacionada a tecnologia 😍💪<br>
+     ✅🎯 Foco em evoluir como FullStack e Software Engineer 🚀 <br> 
+     ✅💻 Focada nas tecnologias Typescript, Node e React. 🚀 <br> 
      ✅🔄 Metodologias Ágeis Scrum e Kanban ⭐ <br>
+     ✅💻 Atuo como Frontend na Ativy 💜🚀🙌<br>
+     ✅💡 Mentora na Dupla Tech <img align="center" alt="Ju-Figma" CA height="20" width="20" background="#fff" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH9zKJkHxRgtA/company-logo_100_100/0/1644456612371?e=1654732800&v=beta&t=VvotlFrZm0DnM8c4EDDMzctiqFvDAQarMs7hzNE0i_w"> 
 </h3> 
   
+<div>
+     
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ju-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ju-mysql" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ju-React" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ju-mysql" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ju-Figma" CA height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  
- 
 
 </div>
 
