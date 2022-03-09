@@ -1,9 +1,9 @@
 <h1>Olá! Eu sou a Jucilene Nunes</h1>
 
 <h3>
-     ✅👩🏼‍⚕️💉 Me abdiquei de uma carreira sólida na Enfermagem no serviço público para me dedicacar ao estudos em desenvolvimento web 🖥️🖱️ <br>
-     ✅📚 Mantenho os estudos focado em Front-end, Back-end e Engenharia de Software, mas sou apaixonada por qualquer coisa relacionada a tecnologia 😍💪<br>
-     ✅🎯 Foco em evoluir como FullStack e Software Engineer 🚀 <br> 
+     ✅👩🏼‍⚕️💉 Me abdiquei de uma carreira sólida na Enfermagem no serviço público para me dedicacar aos estudos em desenvolvimento web 🖥️🖱️ <br>
+     ✅📚 Dedicação em Front-end, Back-end e Engenharia de Software, mas sou apaixonada por qualquer coisa relacionada a tecnologia 😍💪<br>
+     ✅🎯 A meta é evoluir em FullStack Developer e Software Engineer 🚀 <br> 
      ✅💻 Focada nas tecnologias Typescript, Node e React. 🚀 <br> 
      ✅🔄 Metodologias Ágeis Scrum e Kanban ⭐ <br>
      ✅💻 Atuo como Frontend na Ativy 💜🚀🙌<br>
