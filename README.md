@@ -7,7 +7,6 @@
      ✅💻 Focada nas tecnologias Typescript, Node e React. 🚀 <br> 
      ✅🔄 Metodologias Ágeis Scrum e Kanban ⭐ <br>
      ✅💻 Atuo como Frontend na Ativy 💜🚀🙌<br>
-     ✅💡 Mentora na Dupla Tech <img align="center" alt="Ju-Figma" CA height="20" width="20" background="#fff" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH9zKJkHxRgtA/company-logo_100_100/0/1644456612371?e=1654732800&v=beta&t=VvotlFrZm0DnM8c4EDDMzctiqFvDAQarMs7hzNE0i_w"> 
 </h3> 
   
 <div>
