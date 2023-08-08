@@ -6,7 +6,6 @@
      ✅🎯 A meta é evoluir em FullStack Developer e Software Engineer 🚀 <br> 
      ✅💻 Focada nas tecnologias Typescript, Node e React. 🚀 <br> 
      ✅🔄 Metodologias Ágeis Scrum e Kanban ⭐ <br>
-     ✅💻 Atuo como Frontend na Ativy 💜🚀🙌<br>
 </h3> 
   
 <div>
