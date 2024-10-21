@@ -1,9 +1,10 @@
 <h1>Olá! Eu sou a Jucilene Nunes</h1>
 
 <h3>
-     ✅👩🏼‍⚕️💉 Me abdiquei de uma carreira sólida na Enfermagem no serviço público para me dedicacar aos estudos em desenvolvimento web 🖥️🖱️ <br>
+     ✅👩🏼‍⚕️💉 Tenho um vasta bagagem profissional, inclusive no serviço público 🖥️🖱️ <br>
      ✅📚 Dedicação em Front-end, Back-end e Engenharia de Software, mas sou apaixonada por qualquer coisa relacionada a tecnologia 😍💪<br>
-     ✅🎯 A meta é evoluir em FullStack Developer e Software Engineer 🚀 <br> 
+     ✅📚 Recentemente iniciei uma jornada de estudos em Data Analytcs e estou amando esse mundo de dados📊📈🔎💻<br>
+     ✅🎯 A meta é evoluir, sempre 🚀 <br> 
      ✅💻 Focada nas tecnologias Typescript, Node e React. 🚀 <br> 
      ✅🔄 Metodologias Ágeis Scrum e Kanban ⭐ <br>
 </h3> 
