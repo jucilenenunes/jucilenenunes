@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou a Jucilene Nunes</h1>
 
 <h3>
-     ✅👩🏼‍⚕️💉 Tenho uma vasta bagagem profissional, inclusive no serviço público 🖥️🖱️ <br>
+     ✅👩🏼‍⚕️ Tenho uma vasta bagagem profissional, inclusive no serviço público ❤️🏥🩹💉 <br>
      ✅📚 Dedicação em Front-end, Back-end e Engenharia de Software, mas sou apaixonada por qualquer coisa relacionada a tecnologia 😍💪<br>
      ✅📚 Recentemente iniciei uma jornada de estudos em Data Analytcs e estou amando esse mundo de dados📊📈🔎💻<br>
      ✅🎯 A meta é evoluir, sempre 🚀 <br> 
